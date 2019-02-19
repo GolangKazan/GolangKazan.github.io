@@ -1,6 +1,6 @@
 # GDG Golang Казань
 
-![Logo](https://avatars3.githubusercontent.com/u/45972826?s=400&u=a1a5daaeb1584005a1122222881b7232c620e3f0&v=4)
+![Logo](/golang_kazan.jpg)
 
 ## О нас
 
