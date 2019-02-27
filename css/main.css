@@ -1,10 +1,9 @@
 body {
-    color: #f5f5f5;
+    color: #F5F5F5;
 }
 
 a:hover, a:active {
-    color: #87CEEB;
-    
+    color: #87CEEB;  
 }
 
 a:link, a:visited {
@@ -12,11 +11,11 @@ a:link, a:visited {
 }
 
 a.hero-link:link, a.hero-link:visited {
-    color: #AFEEEE}
+    color: #AFEEEE
+}
 
 a.hero-link:hover, a.hero-link:active {
-    color: #87CEEB;
-    
+    color: #87CEEB;  
 }
 
 p {
@@ -24,12 +23,12 @@ p {
 }
 
 .title {
-    color: #f5f5f5;
+    color: #F5F5F5;
 }
 
 .fa-links {
     font-size: 300%;
-    color: #f5f5f5;
+    color: #F5F5F5;
 }
 
 .contacts {
@@ -56,4 +55,4 @@ p {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    }
+}
