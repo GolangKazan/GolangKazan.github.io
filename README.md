@@ -15,7 +15,7 @@
 ## Контакты
 
 * [Группа в vk](https://vk.com/GolangKazan). Анонсы, фотографии, голосования.
-* [Группа на meetup.com](https://www.meetup.com/GolangKazan). Основное место для анонсов и регистрации.
+* [Группа на timepad.ru](https://golang-kazan.timepad.ru/events/). Основное место для анонсов и регистрации.
 * [Telegram chat](https://t.me/GolangKazan) (@GolangKazan). Анонсы и обсуждения.
 * Канал `#meetup-tatar` в [слаке русскоязычного сообщества](https://golang-ru.slack.com). ([Получить инвайт](http://slack.golang-ru.com/)).
 * [Twitter](https://twitter.com/GolangKazan). Дублирование анонсов. Здесь можно помочь ретвитами.
